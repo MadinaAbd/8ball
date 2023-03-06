@@ -1,6 +1,6 @@
-Волшебный шар
+#Волшебный шар
 
-[Описание волшебного шара](https://ru.wikipedia.org/wiki/Magic_8_ball)
+[Описание](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
 Приложение на Ruby
 
@@ -12,4 +12,4 @@
 
 Для запуска приложения используйте команду
 
-```ruby 8ball.rb```
+    ruby 8ball.rb
