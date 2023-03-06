@@ -1,4 +1,4 @@
-#Волшебный шар
+# Волшебный шар
 
 [Описание](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
